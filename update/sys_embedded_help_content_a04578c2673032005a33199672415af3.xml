@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_embedded_help_content">
+    <sys_embedded_help_content action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <content/>
+        <last_sync>2017-02-08 21:50:19</last_sync>
+        <modifier>normal</modifier>
+        <name>v_plugin_list-normal</name>
+        <page>v_plugin_list</page>
+        <product>1</product>
+        <qualifier/>
+        <snc_created>true</snc_created>
+        <sys_class_name>sys_embedded_help_content</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-02-08 21:50:19</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>a04578c2673032005a33199672415af3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>v_plugin_list-normal</sys_name>
+        <sys_package display_value="alpha" source="sn_alpha">bf25fc82673032005a33199672415a48</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="alpha">bf25fc82673032005a33199672415a48</sys_scope>
+        <sys_update_name>sys_embedded_help_content_a04578c2673032005a33199672415af3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-02-08 21:50:19</sys_updated_on>
+        <version>j</version>
+    </sys_embedded_help_content>
+    <sys_translated_text action="delete_multiple" query="documentkey=a04578c2673032005a33199672415af3"/>
+</record_update>
